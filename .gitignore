@@ -1,0 +1,38 @@
+.DS_Store
+node_modules
+/ledger_state/*.json
+/log/*.log
+/metadata/*.json
+/metadata/itn/*.key
+/metadata/itn/*.witness
+/pool_logo/*.png
+*.pgsql
+*.gz
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Private config
+/lib/config.private.js
+
+# Cardano Token Registry
+/cardano-token-registry
+
+# Allow
+!/schema/*.pgsql

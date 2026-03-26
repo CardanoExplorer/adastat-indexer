@@ -1,0 +1,3 @@
+# adastat-indexer
+
+Log folder

@@ -1,0 +1,3 @@
+# adastat-indexer
+
+Meta folder
