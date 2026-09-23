@@ -4,7 +4,7 @@ A Node.js service that runs alongside [Cardano DB Sync](https://github.com/Inter
 
 ## 🛠 Requirements
 
-- **Node.js** 22.18.0+
+- **Node.js** 22.19.0+
 - **PostgreSQL** 16+ (tested on 18)
 - **cardano-db-sync** synced to the target network
 - **cardano-cli** binary for Pool Metadata verification ([Cardano Node](https://github.com/IntersectMBO/cardano-node))
